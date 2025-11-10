@@ -1,4 +1,4 @@
-System.out.println("Olá, sou o Pedro. Bem-vindo!");
+print("Olá, sou o Pedro. Bem-vindo!");
 
 
 ## Social:
